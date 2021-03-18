@@ -11,6 +11,8 @@ namespace _1905
         static void Main(string[] args)
         {
             Console.WriteLine("Hello people!");
+            Console.WriteLine("Hi folk!");
+
             Console.ReadLine();
         }
     }
